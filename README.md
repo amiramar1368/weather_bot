@@ -1,2 +1,2 @@
 # weather_bot
-A telegram bot for weather - Developed By NodeJS
+A Telegram bot to know the weather - Developed By NodeJS
